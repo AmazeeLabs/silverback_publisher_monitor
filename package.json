@@ -1,6 +1,6 @@
 {
   "name": "@-amazeelabs/silverback_publisher_monitor",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "index.js",
   "scripts": {
     "version": "sync-composer-version"
@@ -15,5 +15,5 @@
     "repository": "git@github.com:AmazeeLabs/silverback_publisher_monitor.git",
     "branch": "main"
   },
-  "gitHead": "b5cef5ea3ccf158a0200cf0f70c89423ba1bb85b"
+  "gitHead": "ffa83bb8e09cd7185ccc8610f7055ba0fe8c615c"
 }
