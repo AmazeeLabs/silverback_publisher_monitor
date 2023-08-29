@@ -3,6 +3,76 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.11](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.10...@-amazeelabs/silverback_publisher_monitor@2.3.11) (2023-08-29)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.10](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.9...@-amazeelabs/silverback_publisher_monitor@2.3.10) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.9](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.8...@-amazeelabs/silverback_publisher_monitor@2.3.9) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.8](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.7...@-amazeelabs/silverback_publisher_monitor@2.3.8) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.7](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.6...@-amazeelabs/silverback_publisher_monitor@2.3.7) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.6](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.5...@-amazeelabs/silverback_publisher_monitor@2.3.6) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+## [2.3.5](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.4...@-amazeelabs/silverback_publisher_monitor@2.3.5) (2023-08-24)
+
+**Note:** Version bump only for package
+@-amazeelabs/silverback_publisher_monitor
+
+# Change Log
+
+All notable changes to this project will be documented in this file. See
+[Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
 ## [2.3.4](https://github.com/AmazeeLabs/silverback-mono/compare/@-amazeelabs/silverback_publisher_monitor@2.3.3...@-amazeelabs/silverback_publisher_monitor@2.3.4) (2023-07-24)
 
 **Note:** Version bump only for package
